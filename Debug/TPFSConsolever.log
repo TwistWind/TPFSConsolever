@@ -2,6 +2,7 @@
 c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(36): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
 c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(80): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
 c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(81): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(121): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(117): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(126): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(310): warning C4018: '<': signed/unsigned mismatch
   TPFSConsolever.vcxproj -> C:\Users\TwistWind\Documents\GitHub\TPFSConsolever\Debug\TPFSConsolever.exe
