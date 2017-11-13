@@ -1,10 +1,11 @@
 ﻿  TPFSConsolever.cpp
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(37): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(81): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(82): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(116): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(125): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(413): warning C4018: '<': signed/unsigned mismatch
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(421): warning C4018: '<': signed/unsigned mismatch
-c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(449): warning C4018: '<': signed/unsigned mismatch
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(39): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(83): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(84): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(127): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(451): warning C4018: '<': signed/unsigned mismatch
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(459): warning C4018: '<': signed/unsigned mismatch
+c:\users\twistwind\documents\github\tpfsconsolever\tpfsconsolever.cpp(487): warning C4018: '<': signed/unsigned mismatch
   TPFSConsolever.vcxproj -> C:\Users\TwistWind\Documents\GitHub\TPFSConsolever\Debug\TPFSConsolever.exe
